@@ -15,7 +15,7 @@ class App extends StatelessWidget {
           child: Column(
             children: [
               SizedBox(
-                height: 80,
+                height: 60,
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.end,
