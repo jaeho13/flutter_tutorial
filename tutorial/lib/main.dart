@@ -1,4 +1,4 @@
-import 'package:dart/widgets/Button.dart';
+import 'package:tutorial/widgets/button.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -70,7 +70,7 @@ class App extends StatelessWidget {
               const SizedBox(
                 height: 30,
               ),
-              const Row(
+              Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Button(
